@@ -1,0 +1,19 @@
+[{
+    "name": "background-tissue",
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "classid": 0
+  },
+  {
+    "name": "instrument",
+    "color": [
+      0,
+      255,
+      0
+    ],
+    "classid": 1
+  }
+]
