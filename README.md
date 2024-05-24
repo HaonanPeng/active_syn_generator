@@ -30,3 +30,5 @@ shutil.copy("/content/drive/MyDrive/active_learning_ws/active_learning_v1/labels
 [Link to EndoVis 2017 dataset](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/Data/)
 
 [Link to mobilenet_v1_1.0_224](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md)
+
+[Link to ResNet50 V2](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
