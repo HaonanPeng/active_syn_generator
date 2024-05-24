@@ -1,5 +1,7 @@
 # Active learning with generated synthetic image for instrument segmentation
 
+**Important update on May.24 2024:** In 2024, Google Colab no longer supports TensorFlow 1.13.1 which is required by our system. The training cannot be performed on Colab now. Please refer to the new [local training version](https://github.com/HaonanPeng/active_syn_generator/blob/main/src/active_syn_Endovis_resnet/multi_attempt_active_train_colab_endovis_bald_resnet.py). Please notice that this is the ResNet version which takes longer training time than the previous MobileNet version. And manual setup of the workspace is necessary. Please contact Haonan Peng (penghn@uw.edu) if you need help and I will try to respond timely. CUDA 10 and VS 2017 are necessary in addition to the Python 3.6 environment.
+
 The 3 '.ipynb' script can be run in Google Colab. To run it on your Colab, paths in the following cells should be modified to fit your Google Drive path.
 
 ```
